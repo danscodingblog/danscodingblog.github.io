@@ -14,7 +14,7 @@ Python is a great language for scraping. You can use a library called BeautifulS
 
 The guiding principle of python is that, there should be one clear and obvious way to do everything. Compare this to ruby, which aims to be expressive and let the programmer write code however they want. Ruby allows for some very "beautiful" code, but it can be hard to read depending on who wrote it! With python you're much more likely to be able to read other people's code easily.
 
-If you're interested in learning python, I recommend checking out https://www.python.org/about/gettingstarted/. Remember, it's always best to have a project you're working on in order to learn a language! I recommend building a simple web app with tornado. Try making a rock paper scissors game that two players can play!
+If you're interested in learning python, I recommend checking out [https://www.python.org/about/gettingstarted/]. Remember, it's always best to have a project you're working on in order to learn a language! I recommend building a simple web app with tornado. Try making a rock paper scissors game that two players can play!
 
 That's all I've got for you today, stay tuned for more!
 
