@@ -17,3 +17,5 @@ The guiding principle of python is that, there should be one clear and obvious w
 If you're interested in learning python, I recommend checking out https://www.python.org/about/gettingstarted/. Remember, it's always best to have a project you're working on in order to learn a language! I recommend building a simple web app with tornado. Try making a rock paper scissors game that two players can play!
 
 That's all I've got for you today, stay tuned for more!
+
+![Coding in python is fun!](/assets/ai-artificial-intelligence-blur-546819.jpg){:class="img-responsive"}
